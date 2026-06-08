@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>INFRAESTRUCTURA ZENI</title>
+
+<style>
+	table
+		{
+			Margin: 0px 0px 0px 4px;
+			Border: 1px solid rgb(190, 190, 190);
+			Font-Family: Tahoma;
+			Font-Size: 8pt;
+			Background-Color: rgb(252, 252, 252);
+		}
+
+	tr:hover td
+		{
+			Background-Color: rgb(150, 150, 220);
+			Color: rgb(255, 255, 255);
+		}
+
+	tr:nth-child(even)
+		{
+			Background-Color: rgb(242, 242, 242);
+		}
+	  
+	th
+		{
+			Text-Align: Left;
+			Color: rgb(150, 150, 220);
+			Padding: 1px 4px 1px 4px;
+		}
+
+
+	td
+		{
+			Vertical-Align: Top;
+			Padding: 1px 4px 1px 4px;
+		}
+
+	#TableHeader
+		{
+			Margin-Bottom: -1px;
+			Background-Color: rgb(255, 255, 225);
+			Width: 30%;
+		}
+		
+	#TableDescription
+		{
+			Background-Color: rgb(252, 252, 252);
+			Width: 30%;
+		}
+
+	#TableSpacer
+		{
+			Height: 6px;
+			Border: 0px;
+		}
+</style>
+</head><body>
+
+<table id="TableSpacer"></table>
+<table>
+</table><br>
+</body></html>
